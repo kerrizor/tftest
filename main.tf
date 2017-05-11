@@ -1,5 +1,5 @@
 resource "template_file" "hello_world" {
-    filename = "identity.tpl"
+    template = "identity.tpl"
 
     vars {
         input = "Hello, World!🤖"
