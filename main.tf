@@ -1,4 +1,4 @@
-resource "data" "hello_world" {
+resource "template_file" "hello_world" {
     template = "identity.tpl"
 
     vars {
