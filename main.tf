@@ -4,4 +4,11 @@ resource "template_file" "hello_world" {
     vars {
         input = "Hello, World!🤖"
     }
+    
+    output "unsensitive" {
+        value = "${var.unsensitive}"
+    }
+    output "sensitive" {
+        value = "${var.sensitive}"
+    }
 }
