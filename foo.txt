@@ -1,6 +1,4 @@
 foo
 bar
 baz
-bim
-crockett
-magnum
+
