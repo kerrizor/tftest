@@ -1,5 +1,5 @@
 foo
 bar
 baz
-what could possible happen?
+bad_string
 
