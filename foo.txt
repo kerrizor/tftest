@@ -1,5 +1,5 @@
 foo
 bar
 baz
-lucky charms.jpg
+omaha_steaks.tiff
 
